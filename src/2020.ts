@@ -1,7 +1,7 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
 import deepmerge from "deepmerge";
 import { access } from "fs";
-import omit from "lodash/omit";
+import omit from "lodash.omit";
 
 type TypeName = "string" | "number" | "integer" | "boolean" | "object" | "array" | "null";
 

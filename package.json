@@ -43,7 +43,7 @@
     "@rollup/plugin-commonjs": "^21.0.1",
     "@rollup/plugin-node-resolve": "^13.1.2",
     "@types/jest": "^27.0.2",
-    "@types/lodash": "^4.14.178",
+    "@types/lodash.omit": "^4.5.9",
     "@types/node": "^16.11.7",
     "@typescript-eslint/eslint-plugin": "^5.8.1",
     "@typescript-eslint/parser": "^5.8.1",
